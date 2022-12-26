@@ -16,3 +16,5 @@ https://github.com/Tinche/aiofiles/archive/master.zip
 dnspython
 psutil
 ffmpeg-python
+Flask==2.2.2
+gunicorn==20.1.0
