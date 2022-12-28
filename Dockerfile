@@ -8,4 +8,4 @@ RUN chmod 777 /app
 RUN pip3 install --no-cache-dir -r requirements.txt
 
 
-CMD ["python3","-u","main.py"]
+CMD ["python3","-u","muxbot.py"]
